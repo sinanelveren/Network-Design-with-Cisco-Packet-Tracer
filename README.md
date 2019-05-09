@@ -33,20 +33,22 @@ Her bir yöneticiye ait bir dizüstü ve bir tablet bulunmaktadır.
 Ödeve ait raporda ip adres atamaları, alt ağlar ve sunucularla iletişime ait açıklamalar verilmelidir.
 
 
-* Router $100 
+***
+
+* Router $$100 
 * Switch $70 
 * Hub $50 
 * Linksyswirelessrouter $200 
-***
-* Accesspoint75 
-* ADSL Modem75 
-* DSL Modem50 
-* Cable Modem75
-***
-* Console copper1 
-* Straightcopper2 
-* Cross copper1 
-* Telephone copper1 
-* Coaxialcopper1 
+**
+* Accesspoint $75 
+* ADSL Modem $75 
+* DSL Modem $50 
+* Cable Modem $75
+**
+* Console copper $1 
+* Straightcopper $2 
+* Cross copper $1 
+* Telephone copper$1 
+* Coaxialcopper $1 
 
 
